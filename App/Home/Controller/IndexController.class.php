@@ -17,7 +17,6 @@ class IndexController extends Controller
 
     public function detail()
     {
-        // echo 142143;die;
         $this->display('detail');
     }
 }
